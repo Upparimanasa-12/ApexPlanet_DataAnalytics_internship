@@ -1,0 +1,8 @@
+Customer_ID,Customer_Name,Gender,Date_of_Birth,Transaction_Date,Transaction_Amount,Product_Category,City,Payment_Mode,revenue
+C001,Rahul Sharma,Male,1998-05-12,2024/01/15,1200,Electronics,Bangalore,UPI,1200
+C002,Anita Verma,Female,2001-11-30,15-01-2024,850,Clothing,Delhi,Credit Card,850
+C003,Anita Verma,Female,1995-07-20,2024-01-16,560,Groceries,Mumbai,Debit Card,560
+C004,Suresh Kumar,Male,1995-07-20,2024-01-17,2200,Electronics,Chennai,UPI,2200
+C005,Neha Singh,Female,1999-03-25,2024/01/18,1500,Clothing,Chennai,Cash,1500
+C006,Amit Patel,Male,1988-09-10,2024-01-19,9999,Furniture,Ahmedabad,Net Banking,9999
+C007,Pooja Mehta,Female,2004-06-05,2024-01-20,300,Groceries,Pune,UPI,300
